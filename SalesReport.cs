@@ -1,4 +1,4 @@
-﻿using System;/*Steven Shetler,ID: 800226059, The purpose of this application is to prompt a user
+﻿using System;/*Steven Shetler, The purpose of this application is to prompt a user
 * to enter a sales figure in order to calculate the salary distribution of employees*/
 
 public class SalesReport
